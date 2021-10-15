@@ -32,5 +32,5 @@ Model Builder uses automated machine learning (AutoML) to explore different mach
 ### DataSet: https://www.kaggle.com/muhammadshahzadkhan/dogvscat
 
 # ML.NET Documentation
->https://docs.microsoft.com/en-us/dotnet/machine-learning/
+>https://docs.microsoft.com/en-us/dotnet/machine-learning/<br />
 >https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet/model-builder
