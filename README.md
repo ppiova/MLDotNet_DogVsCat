@@ -33,3 +33,4 @@ Model Builder uses automated machine learning (AutoML) to explore different mach
 
 # ML.NET Documentation
 >https://docs.microsoft.com/en-us/dotnet/machine-learning/
+>https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet/model-builder
