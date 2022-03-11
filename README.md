@@ -14,7 +14,6 @@ Model Builder uses automated machine learning (AutoML) to explore different mach
 ![](Images/04-Training.PNG)<br />
 ## In my case, this training lasted a little over 4 hours
 ![](Images/05-Training-Results.PNG)<br />
-![](Images/05-1-Training-Results.PNG)<br />
 ## Evaluate
 ![](Images/06-Evaluate.PNG)<br />
 ![](Images/07-Evaluate-Test.PNG)<br />
